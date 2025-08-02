@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm AnanyaNamadhar!
 
-<!--
-**Ananyanamadhar/Ananyanamadhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate student eager to explore the world of **Python** and **Data Science**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Student with a curiosity for tech and data
+- 🐍 Python enthusiast
+- 📊 Interested in data science and analytics
+- 🏸 Badminton lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Skills
+- Python
+- Data Science
+- Data Analysis
+- Machine Learning (beginner)
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ananyanamadhar)
+- 📧 Email: ananyanamdhar@gmail.com
+
+## ⚡ Fun Fact
+When I'm not coding or crunching data, you'll find me on the badminton court!
+
+---
+
+Thanks for visiting my profile! Feel free to reach out, collaborate, or just say hi! 😊
